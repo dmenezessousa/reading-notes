@@ -2,14 +2,15 @@
 
 My name is **_Diego Sousa_**, and I love to learn.
 
-Here, I'll be sharing some of my notes from **_Code Fellows 101_**.
+I'll be sharing some of my notes from **_Code Fellows 101_**.
 
 ---
 
 ### Growth Mindset.
 
-I Believe Growth mindset is never letting 
+![This is an image](https://t3.ftcdn.net/jpg/03/77/03/64/360_F_377036466_oCNuWOQZIWJqCCSUPHfq5m8pH6XfxIpc.jpg)
 
+A growth mindset means that you thrive on challenge, and don't see failure as a way to describe yourself.
 
 ### Growth mindset to keep in **_Mind_**
 
