@@ -2,7 +2,7 @@
 
 My name is **_Diego Sousa_**, and I love to learn.
 
-Here, I will be sharing some of my notes from **_Code Fellows 101_**.
+Here, I'll be sharing some of my notes from **_Code Fellows 101_**.
 
 ---
 
