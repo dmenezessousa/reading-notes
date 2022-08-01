@@ -1,6 +1,6 @@
 ## **This is my _Code Fellows_ notes**
 
-My name is _Diego Sousa_ , I love programming.
+My name is **_Diego Sousa_**, and I love to learn.
 
 Here I will be sharing some of my notes from **_Code Fellows 101_**.
 
