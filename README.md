@@ -8,9 +8,9 @@ Here I will be sharing some of my notes from **_Code Fellows 101_**.
 
 Growth mindset to keep in **_Mind_**
 
-- exmaple 1
-- example 2
-- example 3
+- **Great works are performed, not by strength, but by perseverance.**
+- **It’s not that Im so smart, it’s just that I stay with problems longer.**
+- **It does not matter how slowly you go so long as you do not stop.**
 
 ---
 
