@@ -1,4 +1,4 @@
-## ** _Mindset_ notes **
+## **_Mindset_ notes**
 
 
 ### Growth Mindset.
