@@ -34,6 +34,8 @@
 - ``<img src="img source" alt="This is an image"/>``
 - ``<a href="path or link">This is a Link </a>``
 
+---
+
 ## HTML Sctructure
 
 ### Body
@@ -52,7 +54,9 @@
 
 - ``<footer></footer>``
 
-### Full Webpage Structure
+---
+
+## Full Webpage Structure
 
 -Example:
 
@@ -117,3 +121,8 @@
 </body>
 </html>
 ````
+---
+
+[Back to Home](README.md)
+
+Check out my [GitHub Portfolio](https://github.com/dmenezessousa/)
