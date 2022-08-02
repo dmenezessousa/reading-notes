@@ -13,7 +13,6 @@ I'll be sharing some of my notes from **_Code Fellows_** in here.
 |    7/2/2002   |   Class1 |  [Mindset](mindset-notes.md) |
 |   7/2/2002 |    Class1     |  [Markdown](Markdown.md)  |
 
-
 ---
 
 Check out my [GitHub Portfolio](https://github.com/dmenezessousa/)
