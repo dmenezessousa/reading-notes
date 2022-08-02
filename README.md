@@ -1,4 +1,4 @@
-## ** _Code Fellows_ notes**
+# **_Code Fellows_ notes**
 
 ![Me](profile.jpeg)
 
