@@ -2,9 +2,9 @@
 
 ![Me](profile.jpeg)
 
-Hello, My name is **_Diego Sousa_**, and I love to learn.
+Hello, My name is **_Diego Sousa_**
 
-I'll be sharing some of my notes from **_Code Fellows_**.
+I'll be sharing some of my notes from **_Code Fellows_** in here.
 
 ---
 
