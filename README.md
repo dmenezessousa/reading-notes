@@ -4,7 +4,7 @@
 
 Hello, My name is **_Diego Sousa_**
 
-I'll be sharing some of my notes from **_Code Fellows_** in here.
+Here I'll be sharing some of my notes from my BootCamp at [**_Code Fellows_**](https://www.codefellows.org/) .
 
 ---
 
