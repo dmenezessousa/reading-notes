@@ -28,7 +28,7 @@
 - add line items with numbers followed by periods
  - 1. a
  - 2. b
- - 3. c
+ - 3. c.
 
 #### Unordered List
 -add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list
