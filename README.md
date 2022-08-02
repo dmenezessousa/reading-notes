@@ -1,4 +1,6 @@
-## **This is my _Code Fellows_ notes**
+## ** _Code Fellows_ notes**
+
+![Me](profile.jpeg)
 
 Hello, My name is **_Diego Sousa_**, and I love to learn.
 
