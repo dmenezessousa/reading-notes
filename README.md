@@ -6,10 +6,10 @@ I'll be sharing some of my notes from **_Code Fellows_**.
 
 ---
 
-| Tittle     | Links |
-| ----------- | ----------- |
-| Mindset      |  [Mindset](mindset-notes.md)      |
-| Markdown   | Text        |
+|  Dates    | Title |  Links |
+| ----------- | ----------- | ----------- |
+|    7/2/2002   |   Class1 |  [Mindset](mindset-notes.md) |
+|   7/2/2002 |    Class1     |  [Markdown](Markdown.md)  |
 
 
 ---
