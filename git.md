@@ -32,6 +32,8 @@ File has been changed but not committed to the database
 
 Flagged a file’s changed version to be committed in the next snapshot
 
+---
+
 # Getting Started
 
 ## Download Git
@@ -129,3 +131,9 @@ Next, you would push changes to a remote repository. We will discuss remote repo
 *This command pushes changes from the local “master” branch to the remote repository named “origin”.
 
 *For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
+
+---
+
+[Back to Home](README.md)
+
+Check out my [GitHub Portfolio](https://github.com/dmenezessousa/)
