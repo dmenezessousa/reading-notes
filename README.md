@@ -10,8 +10,8 @@ I'll be sharing some of my notes from **_Code Fellows_** in here.
 
 |  Dates    | Title |  Links |
 | ----------- | ----------- | ----------- |
-|    7/2/2002   |   Class1 |  [Mindset](mindset-notes.md) |
-|   7/2/2002 |    Class1     |  [Markdown](Markdown.md)  |
+|    7/2/2002   |   Mindset |  [Link](mindset-notes.md) |
+|   7/2/2002 |    Markdown     |  [Link](Markdown.md)  |
 
 ---
 
