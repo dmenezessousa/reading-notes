@@ -36,6 +36,7 @@ CSS is a language for specifying how documents are presented to users — how th
 There are three ways of inserting a style sheet:
 
 - External CSS
+
 ````
 <!DOCTYPE html>
 <html>
@@ -80,11 +81,12 @@ h1 {
 </body>
 </html>
 ````
+
 The internal style is defined inside the ``<style>`` element, inside the head section.
 
 - Inline CSS
 
-```
+````
 <!DOCTYPE html>
 <html>
 <body>
