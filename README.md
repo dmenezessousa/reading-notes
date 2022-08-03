@@ -13,6 +13,7 @@ Here I'll be sharing some of my notes from my BootCamp at [**_Code Fellows_**](h
 |   7/2/2022 | Mindset |  [Link](mindset-notes.md) |
 |   7/2/2022 | Markdown |  [Link](Markdown.md)  |
 |   8/2/2022 | Git     |   [Link](git.md)  |
+|   8/2/2022 | HTML     |   [Link](html-notes.md)  |
 
 ---
 
