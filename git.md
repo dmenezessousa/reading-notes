@@ -132,6 +132,9 @@ Next, you would push changes to a remote repository. We will discuss remote repo
 
 *For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
 
+![Gitone](gitone.png)
+
+![Gittwo](gittwo.png)
 ---
 
 [Back to Home](README.md)
