@@ -15,6 +15,7 @@ Here I'll be sharing some of my notes from my BootCamp at [**_Code Fellows_**](h
 |   8/2/2022 | Git     |   [Link](git.md)  |
 |   8/2/2022 | HTML     |   [Link](html-notes.md)  |
 |   9/2/2022 | CSS     |   [Link](css-notes.md)  |
+|   9/2/2022 | Javascript     |   [Link](js-notes.md)  |
 
 ---
 
