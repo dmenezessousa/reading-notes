@@ -23,13 +23,13 @@ The function square takes one parameter, called number. The function consists of
 ## In Class Examples
 
 ````
-function greedUser() {
+function greetUser() {
     const userName = prompt("What's your name?");
     let message = "Hello there, + userName";
     return message
 }
 
-greedUser() <--- Calling the function
+greetUser() <--- Calling the function
 
 / ----------------------
 
