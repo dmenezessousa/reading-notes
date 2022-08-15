@@ -18,6 +18,7 @@ Here I'll be sharing some of my notes from my BootCamp at [**_Code Fellows_**](h
 | 8/3/2022 | Javascript             | [Link](js-notes.md)      |
 | 8/4/2022 | JS Function/Operations | [Link](js-functions.md)  |
 | 8/4/2022 | Loops                  | [Link](loops.md)         |
+| 8/15/2022 | class01-201           | [Link](class01-201.md)   |
 
 ---
 
