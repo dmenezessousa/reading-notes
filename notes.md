@@ -70,3 +70,6 @@ pokemon.speak
 
 HTML TABLES
 
+TH - Table header -  add title to the table.
+TD - table cell - add a cell to the row.
+TR - table row - add a row to the table.
