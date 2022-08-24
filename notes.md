@@ -73,3 +73,35 @@ HTML TABLES
 TH - Table header -  add title to the table.
 TD - table cell - add a cell to the row.
 TR - table row - add a row to the table.
+
+
+
+----------------------------------------------------
+
+Css layouts
+
+reponsive layouts are layouts that change with screen size:
+
+The size our content (Pizels/ percentages / width and height / box model)
+
+how does our content behave around parents and siblings
+
+Absolute - Position according to its parent.
+
+Fixed - ignore parents and children, only position according to the view windown
+
+relative - position an element relative to parents and siblings
+
+display - how much space it gives to siblings. 
+
+   block: Take up as much space as posible. Content will take up the width of it's parent
+   inline-block: similar to block, but it wont disallow other elements from sitting right next to it
+   inline: Elements will flow  wherever the can fit, you cannot set height and width. When you need something to take up as little space.
+
+flex box
+
+Flex: is set on a container elements, and tellls that element how to layout it's children.
+
+
+
+wireframming
