@@ -103,3 +103,45 @@ inline: Elements will flow  wherever the can fit, you cannot set height and widt
 flex box
 
 Flex: is set on a container elements, and tellls that element how to layout it's children.
+
+
+
+-----------------------------------------------------
+
+Class 09 notes
+
+HTML Forms
+
+HTML is very user input heavy, and Form elements are our bread and butter.
+Elements that users interact with the most, forms allow us to capture the "values" or 
+"data that users are trying to give us.
+
+  -Most forms use spefic attributes to read values in JS.
+
+```html
+<body>
+    <form>
+        <input name="nameValue" type="text">
+        <input name="typeValue" type="text">
+        <input name="heathValue" type="text">
+        <button type="submit">Create New Value</button> 
+    </form>
+</body>
+```
+
+Events API
+
+JS gives us a way to respond to things happening in the browser.
+
+ -HTML page loads.
+ -Comminication between other systems / computers.
+ -Users typing / clicking/ moving around the mouse.
+ -The Events API gives a way to "listen" for when a specific event occurs
+
+```javascript
+cookieForm.addEventListener("submit", function (event) {
+  event.preventDefault();
+  let { cookie, cookie_type } = event.target;
+  console.log(cookie.value, cookie_type.value);
+});
+```
