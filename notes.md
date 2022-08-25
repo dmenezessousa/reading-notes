@@ -51,8 +51,6 @@ Object  => storage containers for key value pairs,
 Construcor function are functions that create objects the function defines the shape (properties of the obj).
 The parameters represent the values.
 
-
-
 function pokemon(name, health,abilities){
     this.name = name;
     this.health = health;
@@ -78,6 +76,8 @@ TR - table row - add a row to the table.
 
 ----------------------------------------------------
 
+Class 08 - Learning Journal 08
+
 Css layouts
 
 reponsive layouts are layouts that change with screen size:
@@ -94,14 +94,12 @@ relative - position an element relative to parents and siblings
 
 display - how much space it gives to siblings. 
 
-   block: Take up as much space as posible. Content will take up the width of it's parent
-   inline-block: similar to block, but it wont disallow other elements from sitting right next to it
-   inline: Elements will flow  wherever the can fit, you cannot set height and width. When you need something to take up as little space.
+block: Take up as much space as posible. Content will take up the width of it's parent.
+
+inline-block: similar to block, but it wont disallow other elements from sitting right next to it.
+
+inline: Elements will flow  wherever the can fit, you cannot set height and width. When you need something to take up as little space.
 
 flex box
 
 Flex: is set on a container elements, and tellls that element how to layout it's children.
-
-
-
-wireframming
