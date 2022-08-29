@@ -145,3 +145,34 @@ cookieForm.addEventListener("submit", function (event) {
   console.log(cookie.value, cookie_type.value);
 });
 ```
+
+--------------------------------------------------------------
+
+Class 10 notes
+
+## JS Debugging
+
+  -Javascript code has a high potential for buggy code.
+  -We can use Console.log to debug.
+
+## Error Types
+
+In general we see 4 error types.
+
+  -Reference Error: refe to a variable or obj that is not define.
+  -Syntax Error: Missing parenthenses / brackets (open and closed),
+  common typos often cause this.
+  -Type Error: reference, property or method, that doesnt exist.
+  -Range Error: Often occurs when creating / using array.
+
+
+
+1. Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
+
+2. Share 1 or 2 ways the speaker’s information will change your approach to your career transition.
+
+ - I believe it's good for programmers to know more about the Big "O" notation since we can test how our code will run and perform.
+
+3. Do you have any other key take-aways, or observations about this Partner Power Hour?
+
+ - It was a little bit confusing at first trying to understand what the big "O" notation was about.
