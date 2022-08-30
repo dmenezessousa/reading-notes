@@ -167,12 +167,13 @@ In general we see 4 error types.
 
 
 
-1. Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
+----------------------------------
 
-2. Share 1 or 2 ways the speaker’s information will change your approach to your career transition.
+Class 11 notes
 
- - I believe it's good for programmers to know more about the Big "O" notation since we can test how our code will run and perform.
+Audio/Video elements
 
-3. Do you have any other key take-aways, or observations about this Partner Power Hour?
+Audio: you can insert an audio to the webpage and the user can control the volume or stop it from playing.
 
- - It was a little bit confusing at first trying to understand what the big "O" notation was about.
+Video: same as audio however the user has an visual display together with the audio.
+
