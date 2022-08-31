@@ -177,3 +177,23 @@ Audio: you can insert an audio to the webpage and the user can control the volum
 
 Video: same as audio however the user has an visual display together with the audio.
 
+-----------------------------------
+Class 12
+
+Today I learned about how to use the .split method.
+
+ we can use to .split method to break up string such as:
+
+    let name = 'diego'; 
+
+ using the .split method would look like this ?
+
+  name.split('') name now is equal to ['d','i','e','g','o']
+
+ So we can modify any part of the string as we like, we make first letter a capital letter, we can make the last letter capital letter, we can replace a letter and etc...
+ and when we done we just use the .join method to put everything together:
+  name.join('');
+
+Also we went over on how to use a library to import a chart to our page via chart.js which we can modify all the data/labels/format of chart according to our needs.
+
+  
