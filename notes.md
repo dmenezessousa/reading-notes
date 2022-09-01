@@ -196,4 +196,6 @@ Today I learned about how to use the .split method.
 
 Also we went over on how to use a library to import a chart to our page via chart.js which we can modify all the data/labels/format of chart according to our needs.
 
-  
+-------------------------------
+
+class 13
