@@ -31,8 +31,11 @@ Here I'll be sharing some of my notes from my BootCamp at [**_Code Fellows_**](h
 | 8/29/2022 | class11-201            | [Link](class11-201.md)   |
 | 8/30/2022 | class12-201            | [Link](class12-201.md)   |
 | 8/31/2022 | class13-201            | [Link](class13-201.md)   |
-| 8/1/2022 | class14a-201            | [Link](class14a-201.md)   |
-| 8/1/2022 | class14b-201            | [Link](class14b-201.md)   |
+| 9/1/2022 | class14a-201            | [Link](class14a-201.md)   |
+| 9/1/2022 | class14b-201            | [Link](class14b-201.md)   |
+| 9/2/2022 | class15a-201            | [Link](class15a-201.md)   |
+| 9/2/2022 | class15b-201            | [Link](class15b-201.md)   |
+| 9/19/2022 | class01-301            | [Link](class01-301.md)   |
 
 ---
 

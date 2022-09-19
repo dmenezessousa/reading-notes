@@ -199,3 +199,20 @@ Also we went over on how to use a library to import a chart to our page via char
 -------------------------------
 
 class 13
+
+
+We learned on how to use localstorage to save and retrieve user data on they browser.
+
+localStorage: is a property that allows JavaScript sites and apps to save key-value pairs in a web browser with no expiration date. This means the data stored in the browser will persist even after the browser window is closed.
+
+some examples were:
+   localStorage.setItem('') sets/add data to the localstorage
+   localStorage[data]
+   localStorage.getItem('') retrive a key from localstorage
+   JSON.parse(window.localStorage.getItem('user')); retrive the data from the localstorage.
+   localStorage.data
+   window.localStorage.removeItem('name');
+   window.localStorage.clear(); Delete items from localStorage
+
+
+Also we did a code practice using modular on a FizzBuzz code challenge.
