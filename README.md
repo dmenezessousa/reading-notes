@@ -45,6 +45,7 @@ Here I'll be sharing some of my notes from my BootCamp at [**_Code Fellows_**](h
 | 9/28/2022 | class08-301            | [Link](class08-301.md)  |
 | 9/29/2022 | class09-301            | [Link](class09-301.md)  |
 | 9/30/2022 | class10-301            | [Link](class10-301.md)  |
+| 10/3/2022 | class11-301            | [Link](class11-301.md)  |
 
 ---
 
